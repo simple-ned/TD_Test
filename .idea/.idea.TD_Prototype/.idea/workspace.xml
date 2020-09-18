@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84961058-cae6-43be-b42a-39440ba6ff39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TD_Prototype/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TD_Prototype/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TD_Prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TD_Prototype/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EventManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="51" />
+              <folding>
+                <marker date="1590417167000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1590417167000" expanded="true" signature="87:802" ph="{...}" />
+                <marker date="1590417167000" expanded="true" signature="430:800" ph="{...}" />
+                <marker date="1590417167000" expanded="true" signature="888:892" ph="{...}" />
+                <marker date="1590417167000" expanded="true" signature="938:942" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/ObjectsTimelineManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="154" column="12" selection-start-line="154" selection-start-column="12" selection-end-line="154" selection-end-column="12" />
+              <folding>
+                <marker date="1590484797000" expanded="true" signature="6:111" ph="..." />
+                <marker date="1590484797000" expanded="true" signature="164:6789" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="971:1366" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="1396:1855" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="1510:1726" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="1903:2769" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="2183:2418" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="2316:2404" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="2801:2839" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="2876:2915" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="2961:5579" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="3105:3145" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="3414:3614" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="3473:3604" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="3688:5177" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="3753:5167" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="3893:4990" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="4006:4130" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="4373:4666" ph="/* На данный момент тут отсутствует что-то типа BulletSpawnera, поэтому приходится создавать вручную ... */" />
+                <marker date="1590484797000" expanded="true" signature="5022:5153" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="5300:5378" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="5488:5546" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="5634:5891" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="5739:5811" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="5948:6169" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="6009:6079" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="6236:6485" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="6299:6382" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="6515:6787" ph="{...}" />
+                <marker date="1590484797000" expanded="true" signature="6556:6781" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/LabelCounters.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+              <folding>
+                <marker date="1590487447000" expanded="true" signature="6:31" ph="..." />
+                <marker date="1590487447000" expanded="true" signature="75:2707" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="378:1017" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="577:660" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="759:1011" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1049:1090" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1122:1163" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1198:1237" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1270:1457" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1487:1861" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1591:1855" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1899:2140" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="1939:2026" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2048:2134" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2178:2419" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2218:2305" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2327:2413" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2455:2705" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2498:2591" ph="{...}" />
+                <marker date="1590487447000" expanded="true" signature="2613:2699" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/CannonBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2604">
+              <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+              <folding>
+                <marker date="1590486899000" expanded="true" signature="6:97" ph="..." />
+                <marker date="1590486899000" expanded="true" signature="99:263" ph="/* Не стал вводить дополнительные сущности и выделять базовый класс (CannnonBase). Когда появится нужна, из этого ... */" />
+                <marker date="1590486899000" expanded="true" signature="312:7896" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="1035:2104" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="1239:1466" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="1484:1734" ph="/* В модели pivot находится не в геометрическом центре, а где-то под пушкой, ... */" />
+                <marker date="1590486899000" expanded="true" signature="1897:1964" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2123:3658" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2205:2245" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2338:2806" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2450:2796" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2497:2577" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2653:2757" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="2887:3084" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="3158:3567" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="3594:3651" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="3702:4285" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="3740:4257" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="3763:3947" ph="/* Почистим коллекцию от нулевых ссылок. Бывает, что гоблин может исчезнуть, не покинув триггер башни ... */" />
+                <marker date="1590486899000" expanded="true" signature="4005:4152" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="4060:4138" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="4310:4781" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="4392:4745" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="4830:5022" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="4963:5016" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="5070:5361" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="5174:5355" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="5270:5345" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="5367:7889" ph="SaveableBehaviour implementation" />
+                <marker date="1590486899000" expanded="true" signature="5595:5978" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="5610:5776" ph="/* Не буду тут сохранять позицию и вращение самой башни, т.к. в рамках прототипа не подразумевается, ... */" />
+                <marker date="1590486899000" expanded="true" signature="6017:6533" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="6076:6331" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="6432:6504" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="6582:7092" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="6622:6941" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="6954:7086" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="7133:7873" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="7259:7867" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="7306:7508" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="7525:7600" ph="{...}" />
+                <marker date="1590486899000" expanded="true" signature="7693:7857" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EnemyManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+              <folding>
+                <marker date="1590441900000" expanded="true" signature="6:58" ph="..." />
+                <marker date="1590441900000" expanded="true" signature="101:1697" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="568:632" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="650:918" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="828:912" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="951:1236" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="1087:1230" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="1290:1332" ph="{...}" />
+                <marker date="1590441900000" expanded="true" signature="1389:1695" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/InputManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <marker date="1590443472000" expanded="true" signature="61:531" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="116:180" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="202:461" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="217:394" ph="/* Вот здесь мы, якобы, устраиваем проверку, на какой платформе играет игрок, чтобы подсунуть нужный интерпретато ... */" />
+                <marker date="1590443472000" expanded="true" signature="480:529" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="590:648" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="679:1600" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="751:836" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="878:1598" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="925:1479" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="1151:1469" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="1254:1455" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="1319:1437" ph="{...}" />
+                <marker date="1590443472000" expanded="true" signature="1521:1592" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/UIManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+              <folding>
+                <marker date="1590487685000" expanded="true" signature="6:40" ph="..." />
+                <marker date="1590487685000" expanded="true" signature="80:2395" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="526:590" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="620:1172" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="1208:1493" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="1532:1894" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="1642:1709" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="1940:2152" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="2050:2118" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="2193:2249" ph="{...}" />
+                <marker date="1590487685000" expanded="true" signature="2301:2393" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/ObjectsTimelineManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/416475E6-C0B9-423B-A45F-C1C6EA4AFF1C/a5/d1fa065b/UnityEvent`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/GoblinBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/CannonBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/StatisticManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/CannonData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/SaveableBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/LabelCounters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/BulletBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EnemyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/EnemyData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/InputManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Goblin.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Cannon.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/EnemyScriptable.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/EnemyData.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/CannonData.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/StatiscitManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/KillCountLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/MissedCountLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/TimelineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/ManagerBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Interfaces/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/BulletBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EnemyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/InputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/GoblinBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/ObjectsTimelineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/SaveableBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/StatisticManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/CannonBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/LabelCounters.cs" />
+        <option value="$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/UIManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="TD_Hypemasters" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="TD_Hypemasters" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="TD_Hypemasters" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="UI" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="28611">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="28611" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84961058-cae6-43be-b42a-39440ba6ff39" name="Default Changelist" comment="" />
+      <created>1590090765871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590090765871</updated>
+      <workItem from="1590090768629" duration="3373000" />
+      <workItem from="1590163811679" duration="981000" />
+      <workItem from="1590185783672" duration="95172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99526000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="945" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49940264" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" sideWeight="0.50059736" side_tool="true" visible="true" weight="0.25579977" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904422" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/TowerDefence_Vsquad/Scripts/EnemyHp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1586462426000" expanded="true" signature="117:422" ph="{...}" />
+            <marker date="1586462426000" expanded="true" signature="183:224" ph="{...}" />
+            <marker date="1586462426000" expanded="true" signature="251:415" ph="{...}" />
+            <marker date="1586462426000" expanded="true" signature="292:409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Cannon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Goblin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TowerDefence_Vsquad/Scripts/WaveSpawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TowerDefence_Vsquad/Scripts/Enemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="112" column="10" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TowerDefence_Vsquad/Scripts/Tower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="113" column="33" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/EnemyScriptable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TowerDefence_Vsquad/Scripts/TowerBullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-631">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/PlayerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/StatiscitManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/KillCountLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/MissedCountLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/EnemyData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <marker date="1590270254000" expanded="true" signature="20:144" ph="/* Возможно, на данный момент использование ScriptableObject это как из пушки по воробьям, но ... */" />
+            <marker date="1590270254000" expanded="true" signature="269:538" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Scriptable objects/CannonData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
+          <folding>
+            <marker date="1590324532000" expanded="true" signature="265:919" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/TimelineManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/ManagerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Interfaces/IState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/BulletBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <marker date="1590435646000" expanded="true" signature="68:3033" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="289:357" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="438:535" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="562:872" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="606:800" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="813:866" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="921:1388" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="976:1382" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="1048:1121" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="1398:3031" ph="SabeableBehaviour implementation" />
+            <marker date="1590435646000" expanded="true" signature="1469:1634" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="1673:1948" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="1728:1922" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="2113:2568" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="2153:2416" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="2430:2562" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="2609:3015" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="2734:3009" ph="{...}" />
+            <marker date="1590435646000" expanded="true" signature="2853:2999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/EnemySpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EnemyManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <marker date="1590441900000" expanded="true" signature="6:58" ph="..." />
+            <marker date="1590441900000" expanded="true" signature="101:1697" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="568:632" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="650:918" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="828:912" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="951:1236" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="1087:1230" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="1290:1332" ph="{...}" />
+            <marker date="1590441900000" expanded="true" signature="1389:1695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <marker date="1590440331000" expanded="true" signature="6:87" ph="..." />
+            <marker date="1590440331000" expanded="true" signature="113:1418" ph="{...}" />
+            <marker date="1590440331000" expanded="false" signature="120:429" ph="Singleton" />
+            <marker date="1590440331000" expanded="true" signature="224:409" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="242:403" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="287:362" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="514:587" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="658:914" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="756:862" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="967:1202" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="1057:1159" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="1233:1333" ph="{...}" />
+            <marker date="1590440331000" expanded="true" signature="1377:1416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/SaveableBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding>
+            <marker date="1590486128000" expanded="true" signature="42:122" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="170:1707" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="222:720" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="274:332" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="379:437" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="484:542" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="608:676" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="883:1130" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1053:1124" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1174:1215" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1253:1286" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1334:1355" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1491:1503" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1543:1705" ph="{...}" />
+            <marker date="1590486128000" expanded="true" signature="1626:1699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/GoblinBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2667">
+          <caret line="127" column="47" lean-forward="true" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="47" />
+          <folding>
+            <marker date="1590484470000" expanded="true" signature="20:182" ph="/* Не стал вводить дополнительные сущности и выделять базовый класс (EnemyBase). Когда появится нужна, из этого к ... */" />
+            <marker date="1590484470000" expanded="true" signature="231:3855" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="680:795" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="832:1430" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="912:1167" ph="/* В рамках прототипа не указывается, что гоблин будет сходить со своей траектории, ... */" />
+            <marker date="1590484470000" expanded="true" signature="1338:1424" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="1488:1784" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="1641:1778" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="1833:2072" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="1879:2066" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2108:2310" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2134:2174" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2199:2244" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2265:2304" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2334:2642" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2676:2747" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2702:2741" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="2753:3844" ph="SaveableBehaviour implementation" />
+            <marker date="1590484470000" expanded="true" signature="2824:3081" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="3120:3363" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="3175:3337" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="3412:3828" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="3452:3676" ph="{...}" />
+            <marker date="1590484470000" expanded="true" signature="3690:3822" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/StatisticManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1590486199000" expanded="true" signature="69:1926" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="266:330" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="371:614" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="646:726" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="758:838" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="883:1136" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="1146:1924" ph="SaveableBehaviour implementation" />
+            <marker date="1590486199000" expanded="true" signature="1227:1293" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="1332:1503" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="1407:1477" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="1552:1908" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="1602:1756" ph="{...}" />
+            <marker date="1590486199000" expanded="true" signature="1770:1902" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/CannonBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2604">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+          <folding>
+            <marker date="1590486899000" expanded="true" signature="6:97" ph="..." />
+            <marker date="1590486899000" expanded="true" signature="99:263" ph="/* Не стал вводить дополнительные сущности и выделять базовый класс (CannnonBase). Когда появится нужна, из этого ... */" />
+            <marker date="1590486899000" expanded="true" signature="312:7896" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="1035:2104" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="1239:1466" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="1484:1734" ph="/* В модели pivot находится не в геометрическом центре, а где-то под пушкой, ... */" />
+            <marker date="1590486899000" expanded="true" signature="1897:1964" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2123:3658" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2205:2245" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2338:2806" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2450:2796" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2497:2577" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2653:2757" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="2887:3084" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="3158:3567" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="3594:3651" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="3702:4285" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="3740:4257" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="3763:3947" ph="/* Почистим коллекцию от нулевых ссылок. Бывает, что гоблин может исчезнуть, не покинув триггер башни ... */" />
+            <marker date="1590486899000" expanded="true" signature="4005:4152" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="4060:4138" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="4310:4781" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="4392:4745" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="4830:5022" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="4963:5016" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="5070:5361" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="5174:5355" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="5270:5345" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="5367:7889" ph="SaveableBehaviour implementation" />
+            <marker date="1590486899000" expanded="true" signature="5595:5978" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="5610:5776" ph="/* Не буду тут сохранять позицию и вращение самой башни, т.к. в рамках прототипа не подразумевается, ... */" />
+            <marker date="1590486899000" expanded="true" signature="6017:6533" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="6076:6331" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="6432:6504" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="6582:7092" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="6622:6941" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="6954:7086" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="7133:7873" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="7259:7867" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="7306:7508" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="7525:7600" ph="{...}" />
+            <marker date="1590486899000" expanded="true" signature="7693:7857" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/EventManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <marker date="1590417167000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1590417167000" expanded="true" signature="87:802" ph="{...}" />
+            <marker date="1590417167000" expanded="true" signature="430:800" ph="{...}" />
+            <marker date="1590417167000" expanded="true" signature="888:892" ph="{...}" />
+            <marker date="1590417167000" expanded="true" signature="938:942" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/UI/LabelCounters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+          <folding>
+            <marker date="1590487447000" expanded="true" signature="6:31" ph="..." />
+            <marker date="1590487447000" expanded="true" signature="75:2707" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="378:1017" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="577:660" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="759:1011" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1049:1090" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1122:1163" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1198:1237" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1270:1457" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1487:1861" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1591:1855" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1899:2140" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="1939:2026" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2048:2134" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2178:2419" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2218:2305" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2327:2413" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2455:2705" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2498:2591" ph="{...}" />
+            <marker date="1590487447000" expanded="true" signature="2613:2699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/InputManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <marker date="1590443472000" expanded="true" signature="61:531" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="116:180" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="202:461" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="217:394" ph="/* Вот здесь мы, якобы, устраиваем проверку, на какой платформе играет игрок, чтобы подсунуть нужный интерпретато ... */" />
+            <marker date="1590443472000" expanded="true" signature="480:529" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="590:648" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="679:1600" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="751:836" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="878:1598" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="925:1479" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="1151:1469" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="1254:1455" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="1319:1437" ph="{...}" />
+            <marker date="1590443472000" expanded="true" signature="1521:1592" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/416475E6-C0B9-423B-A45F-C1C6EA4AFF1C/a5/d1fa065b/UnityEvent`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/ObjectsTimelineManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="154" column="12" selection-start-line="154" selection-start-column="12" selection-end-line="154" selection-end-column="12" />
+          <folding>
+            <marker date="1590484797000" expanded="true" signature="6:111" ph="..." />
+            <marker date="1590484797000" expanded="true" signature="164:6789" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="971:1366" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="1396:1855" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="1510:1726" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="1903:2769" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="2183:2418" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="2316:2404" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="2801:2839" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="2876:2915" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="2961:5579" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="3105:3145" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="3414:3614" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="3473:3604" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="3688:5177" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="3753:5167" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="3893:4990" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="4006:4130" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="4373:4666" ph="/* На данный момент тут отсутствует что-то типа BulletSpawnera, поэтому приходится создавать вручную ... */" />
+            <marker date="1590484797000" expanded="true" signature="5022:5153" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="5300:5378" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="5488:5546" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="5634:5891" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="5739:5811" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="5948:6169" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="6009:6079" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="6236:6485" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="6299:6382" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="6515:6787" ph="{...}" />
+            <marker date="1590484797000" expanded="true" signature="6556:6781" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TD_Hypemasters/Scripts/Managers/UIManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding>
+            <marker date="1590487685000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1590487685000" expanded="true" signature="80:2395" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="526:590" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="620:1172" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="1208:1493" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="1532:1894" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="1642:1709" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="1940:2152" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="2050:2118" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="2193:2249" ph="{...}" />
+            <marker date="1590487685000" expanded="true" signature="2301:2393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
